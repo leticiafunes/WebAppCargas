@@ -1,0 +1,10 @@
+﻿
+4 Formas de Cargar Data Relacionada en Entity Framework Core
+
+
+https://www.youtube.com/watch?v=1G-z4xdg0pw
+
+
+Corrigiendo el error “A possible object cycle was detected” en distintas versiones de ASP.NET Core
+
+https://gavilanch.wordpress.com/2021/05/19/corrigiendo-el-error-a-possible-object-cycle-was-detected-en-distintas-versiones-de-asp-net-core/
